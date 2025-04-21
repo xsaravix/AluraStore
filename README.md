@@ -4,7 +4,7 @@
 O desafio consiste em fazer uma análise dos dados de quatro lojas do Seu João, ajudando-o a decidir qual delas ele irá vender para começar um novo empreendimento. 
 
 ## 🎯Objetivo
-O objetivo é identificar a loja com menor eficiência e apresentar uma resomendação baseada nos dados e gráficos. As competências colocadas em prática são:
+O objetivo é identificar a loja com menor eficiência e apresentar uma recomendação baseada nos dados e gráficos. As competências colocadas em prática são:
 - Carregar e manipular dados CSV com a biblioteca Pandas,
 - Criar visualizações de dados com biblioteca Matplotlib,
 - Analisar métricas como faturamento, avaliações e desempenho de vendas.
@@ -23,6 +23,7 @@ O objetivo é identificar a loja com menor eficiência e apresentar uma resomend
 - Gráfico de plot que permite a visualização da média de avaliações de cada loja e sua performance baseada na média geral de avaliações.
 ![Gráfico Frete Médio](imagens/frete_medio.png)
 - Gráfico de barras verticais que permitem a visualização do frete médio por loja.
+- 
 - O código permite algumas visualizações para além dos gráficos como o total de vendas por categoria, as categorias com melhor e pior desempenho de vendas e os produtos mais e menos vendidos por loja.
 
 ## 🔨 Ferramentas Utilizadas
